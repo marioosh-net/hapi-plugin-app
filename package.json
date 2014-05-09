@@ -1,0 +1,11 @@
+{
+  "name": "hapi-plugin-app",
+  "version": "0.0.1",
+  "repository": "git://github.com/marioosh-net/hapi-plugin-app",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+    "hapi":"*"
+  }
+}
